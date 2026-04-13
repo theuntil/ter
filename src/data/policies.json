@@ -1,0 +1,92 @@
+[
+  {
+  "id": "privacy",
+  "title": "Gizlilik",
+  "content": [
+    "This Privacy Policy explains that ROVAND LTD ('we', 'us', 'our') does NOT collect, store, process, or share any personal information through any of our applications or services. By using our Services, you acknowledge this policy.",
+    
+    "1. Information We Collect",
+    "We do not collect any personal information of any kind. Our applications do not request, track, store, or process user data, device data, analytics data, or any other form of identifiable or non-identifiable data.",
+    
+    "2. How We Use Your Information",
+    "Since we do not collect any information, we do not use, process, analyze, or store any data for any purpose.",
+    
+    "3. Legal Bases for Processing",
+    "Because no data is collected or processed, no legal basis for data processing is required or applied.",
+    
+    "4. When We Share Your Information",
+    "We do not share any information with third parties because we do not collect or store any data to begin with.",
+    
+    "5. Data Retention",
+    "We do not retain any data. Since no information is collected, nothing is stored or kept for any duration.",
+    
+    "6. Data Security",
+    "As no personal data is collected or stored, there is no data requiring protection. Our applications are designed to operate fully without accessing or handling any user data.",
+    
+    "7. Children's Privacy",
+    "We do not knowingly collect any data from children or any users. If any data were to be unintentionally submitted, it would not be stored or processed.",
+    
+    "8. Your Privacy Rights",
+    "Because we do not collect any personal data, there are no rights to exercise regarding access, deletion, correction, or portability of information. No data exists in our systems.",
+    
+    "9. Do-Not-Track Signals",
+    "Our applications do not track users under any circumstances and therefore do not respond to Do-Not-Track signals, as no tracking occurs.",
+    
+    "10. Additional Rights for US Residents",
+    "Since we do not collect or handle any data, there is no information to access, delete, correct, or restrict. All users have full privacy by default.",
+    
+    "11. Changes to This Policy",
+    "This Privacy Policy may be updated periodically. The latest version will always be available within our Services.",
+    
+    "12. Contact Us",
+    "If you have questions, you may contact us at: contact@rovand.limited or visit www.rovand.limited/contact. Address: 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, England."
+  ]
+}
+
+,
+  {
+    "id": "cookies",
+    "title": "Çerez",
+    "content": [
+      "Our website does not use cookies, tracking pixels, analytics tools or any other technologies that store information on a user's device.",
+      "No session identifiers, advertising cookies, behavioural tracking or third-party marketing tools are used.",
+      "If cookie-based features are introduced in the future, users will be informed clearly and consent will be obtained in accordance with UK GDPR and PECR requirements."
+    ]
+  },
+  {
+    "id": "terms",
+    "title": "Kullanım",
+    "content": [
+      "Rovand Limited provides e-commerce services, software development, mobile application development and IT services. By using our website or engaging with our services, users agree to these Terms of Service.",
+      "All content, software, code, trademarks, and materials on our website are owned or licensed by Rovand Limited and may not be copied, redistributed or modified without prior written consent.",
+      "Our services are provided on an 'as-is' basis. We make reasonable efforts to ensure accuracy and continuity but do not guarantee uninterrupted availability.",
+      "Users must not misuse our website or services, including attempting unauthorised access, interference with systems, or any form of malicious activity.",
+      "We reserve the right to update or modify these terms at any time. Continued use of our website constitutes acceptance of the updated terms."
+    ]
+  },
+  {
+    "id": "refund",
+    "title": "İade",
+    "content": [
+      "For digital products such as software, applications or downloadable content, refunds are issued only if the product is proven to be defective and cannot be restored or delivered as described.",
+      "For physical products sold via e-commerce, customers may request a return within the legally required timeframe, provided the product is unused, unopened and in its original condition.",
+      "Custom software development, IT consultancy and similar bespoke services are not eligible for refunds once the project has commenced, unless otherwise stated in a separate service agreement.",
+      "All refund requests must be submitted with proof of purchase and details of the issue."
+    ]
+  },
+  {
+  "id": "company-information",
+  "title": "Şirket Hakkında",
+  "content": [
+    "Şirket Adı: Rovand Limited",
+    "Kayıt Adresi: 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",
+    "D-U-N-S Numarası: 234175886",
+    "Kayıt Numarası: 16724239",
+    "Email: contact@rovand.limited",
+    "Telefon Numarası: +90 533 443 4978",
+    "Alternatif Email: ozenshopping.com@gmail.com",
+    "SIC Kodları: 47910 – Retail sale via mail order houses or via Internet; 62012 – Business and domestic software development; 62090 – Other information technology service activities"
+  ]
+}
+    
+]

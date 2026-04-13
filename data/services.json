@@ -1,0 +1,108 @@
+{
+  "categories": [
+    { "id": "1", "name": "Yapay Zeka", "slug": "ai" },
+    { "id": "2", "name": "Web Geliştirme", "slug": "web" },
+    { "id": "3", "name": "Mobil Uygulama", "slug": "mobile" },
+    { "id": "4", "name": "E-Ticaret", "slug": "ecommerce" },
+    { "id": "5", "name": "Tasarım", "slug": "design" },
+    { "id": "6", "name": "Özel Yazılım", "slug": "custom" }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "slug": "ai",
+      "name": "AI Otomasyon Sistemleri",
+      "description": "İş süreçlerinizi otomatikleştiren yapay zeka çözümleri.",
+      "long_description": "İş süreçlerinizi analiz ederek size özel yapay zeka otomasyon sistemleri geliştiriyoruz.",
+      "price": 25000,
+      "tags": ["AI", "Otomasyon", "Verimlilik", "API"],
+      "image_url": "/chatt.png",
+      "background_image": "/videoc.mp4",
+      "category_slug": "ai"
+    },
+    {
+      "id": "2",
+      "slug": "kurumsal-web",
+      "name": "Kurumsal Web Sitesi",
+      "description": "Modern ve hızlı kurumsal web siteleri.",
+      "long_description": "SEO uyumlu, hızlı ve mobil uyumlu web siteleri geliştiriyoruz.",
+      "price": 30000,
+      "tags": ["Web", "SEO", "Performans", "UI"],
+      "image_url": "/webb.png",
+      "background_image": "/video4.mp4",
+      "category_slug": "web"
+    },
+    {
+      "id": "3",
+      "slug": "mobil-uygulama",
+      "name": "Mobil Uygulama Geliştirme",
+      "description": "iOS ve Android uygulama çözümleri.",
+      "long_description": "Kullanıcı deneyimi odaklı mobil uygulamalar geliştiriyoruz.",
+      "price": 50000,
+      "tags": ["Mobile", "iOS", "Android", "UX"],
+      "image_url": "/appstore.png",
+      "background_image": "/video2.mp4",
+      "category_slug": "mobile"
+    },
+    {
+      "id": "4",
+      "slug": "shopify-e-ticaret",
+      "name": "Shopify E-Ticaret Sitesi",
+      "description": "Satış odaklı e-ticaret çözümleri.",
+      "long_description": "Shopify ile optimize edilmiş e-ticaret sistemleri kuruyoruz.",
+      "price": 50000,
+      "tags": ["Shopify", "E-Ticaret", "Satış", "UX"],
+      "image_url": "/shopify.png",
+      "background_image": "/7.mp4",
+      "category_slug": "ecommerce"
+    },
+    {
+     "id": "5",
+"slug": "ikas",
+"name": "İkas E-Ticaret Kurulumu",
+"description": "İkas altyapısıyla tamamen hazır, satışa başlayabileceğiniz e-ticaret sistemi kuruyoruz.",
+"long_description": "İkas E-Ticaret Kurulumu hizmetimiz, sadece bir site kurulumundan ibaret değildir; markanızı dijitalde satış yapan güçlü bir sisteme dönüştürmeyi hedefleyen uçtan uca bir çözümdür.",
+"price": 50000,
+"tags": ["İkas", "E-Ticaret", "Türkiye", "Ödeme"],
+"image_url": "/ikass.png",
+"background_image": "/ikas.webm",
+"category_slug": "ecommerce"
+    },
+    {
+      "id": "6",
+      "slug": "logo-tasarim",
+      "name": "Logo Tasarım",
+      "description": "Profesyonel logo tasarımları.",
+      "long_description": "Markanıza özel özgün logo tasarımları oluşturuyoruz.",
+      "price": null,
+      "tags": ["Logo", "Branding", "Design", "Minimal"],
+      "image_url": "/logo.png",
+      "background_image": "/video5.mp4",
+      "category_slug": "design"
+    },
+    {
+      "id": "7",
+      "slug": "tasarim",
+      "name": "Tasarım Hizmeti",
+      "description": "UI/UX tasarım çözümleri.",
+      "long_description": "Kullanıcı deneyimini artıran modern tasarımlar.",
+      "price": null,
+      "tags": ["UI", "UX", "Design", "Figma"],
+      "image_url": "/tasarım.png",
+      "background_image": "/video7.mp4",
+      "category_slug": "design"
+    },
+    {
+      "id": "8",
+      "slug": "ozel-yazilim",
+      "name": "Özel Yazılım Geliştirme",
+      "description": "Custom yazılım çözümleri.",
+      "long_description": "İşinize özel yazılım sistemleri geliştiriyoruz.",
+      "price": null,
+      "tags": ["Custom", "Backend", "API", "System"],
+      "image_url": "/code.png",
+      "background_image": "/vodevideo.gif",
+      "category_slug": "custom"
+    }
+  ]
+}

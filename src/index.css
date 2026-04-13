@@ -1,0 +1,102 @@
+
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+/* 🔥 DARK MODE CLASS TANIMI */
+@custom-variant dark (&:where(.dark, .dark *));
+
+* {
+  font-family: 'Figtree';
+}
+body {background-color: black;}
+
+/* ==== Soft Blob Animated Background ==== */
+
+.soft-bg {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: -1;
+  background: #0b0d10; /* koyu ama pastel uyumlu */
+}
+
+.soft-bg .blob {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  filter: blur(120px);
+  animation: blobFloat 18s infinite ease-in-out;
+  opacity: 0.6;
+}
+
+.soft-bg .blob:nth-child(1) {
+  background: #7ad0ff; /* soft mavi */
+  top: -10%;
+  left: -10%;
+  animation-delay: 0s;
+}
+
+.soft-bg .blob:nth-child(2) {
+  background: #c090ff; /* soft mor */
+  bottom: -15%;
+  right: -5%;
+  animation-delay: 3s;
+}
+
+.soft-bg .blob:nth-child(3) {
+  background: #6fffd0; /* soft mint yeşil */
+  top: 40%;
+  left: 60%;
+  animation-delay: 6s;
+}
+
+@keyframes blobFloat {
+  0%   { transform: translate(0, 0) scale(1); }
+  33%  { transform: translate(80px, -40px) scale(1.1); }
+  66%  { transform: translate(-60px, 60px) scale(0.95); }
+  100% { transform: translate(0, 0) scale(1); }
+}
+
+.dither-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+
+.paint-container {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.threads-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.text-type {
+  display: inline-block;
+  white-space: pre-wrap;
+}
+
+.text-type__cursor {
+  margin-left: 0.25rem;
+  display: inline-block;
+  opacity: 1;
+}
+
+.text-type__cursor--hidden {
+  display: none;
+}
