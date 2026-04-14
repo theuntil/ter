@@ -1,6 +1,6 @@
 
 import Hero from "../components/Hero";
-import Services from "../components/Services";
+
 import Reviews from "../components/Testimonials";
 
 import FAQ from "../components/FAQ";

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ArrowUpRight, Instagram, Twitter, Facebook, Linkedin } from "lucide-react";
+import {  Instagram, Linkedin } from "lucide-react";
 import PolicyModal, { type Policy } from "../components/PolicyModal";
 import policiesData from "../data/policies.json";
 import { Link } from "react-router-dom";

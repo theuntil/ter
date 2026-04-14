@@ -1,26 +1,7 @@
-import { Bot, Smartphone, Globe2, ShoppingCart, Linkedin } from "lucide-react";
+import { Bot, Smartphone, Globe2, ShoppingCart } from "lucide-react";
 
 const Hakkimizda = () => {
-  const founders = [
-    {
-      name: "Adnan Özen",
-      role: "Kurucu Ortak - FullStack Developer",
-      linkedin: "https://linkedin.com/in/adnanozen",
-      image: "https://media.licdn.com/dms/image/v2/D4E03AQHq70hHxhMQ3w/profile-displayphoto-scale_400_400/B4EZszBcdGKgAg-/0/1766087576592?e=1777507200&v=beta&t=fEABvHj3lLCSpmC3JCA50CH8Nnm01e5zmh4oKPRzX0I"
-    },
-    {
-      name: "Yasin Miraç Özen",
-      role: "Kurucu Ortak - Ads Manager, AI Specialist",
-      linkedin: "https://linkedin.com/in/yasinmiracozen",
-      image: "/miracozen.png"
-    },  {
-      name: "Fatma Nur Yıldız",
-      role: "Grafik Tasarımcı, Motion Designer",
-      linkedin: "#",
-      image: "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/female-person-silhouette-white-icon.png"
-    },
-    
-  ];
+
 
   return (
     <section className="w-full min-h-screen bg-white dark:bg-black text-slate-900 dark:text-white px-4 py-16 flex justify-center transition-colors duration-300 font-sans">
