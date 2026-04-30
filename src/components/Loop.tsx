@@ -8,8 +8,8 @@ export default function BrandsSection() {
     { src: "/geceroglu.png", alt: "logo3", href: "https://gecerogluenerji.org" },
     { src: "/cocuktribunu.png", alt: "logo4", href: "https://cocuktribunu.org" },
     { src: "/favela.png", alt: "logo5", href: "https://favelawears.com" },
-     { src: "/favicon.png", alt: "logo7", href: "https://www.unalcelikyapi.com.tr" },
       { src: "/kays.png", alt: "logo6", href: "https://kays.com.tr" },
+         { src: "/unall.png", alt: "logo7", href: "https://www.unalcelikyapi.com.tr" },
     
   ];
 
