@@ -9,7 +9,7 @@ export default function BrandsSection() {
     { src: "/cocuktribunu.png", alt: "logo4", href: "https://cocuktribunu.org" },
     { src: "/favela.png", alt: "logo5", href: "https://favelawears.com" },
       { src: "/kays.png", alt: "logo6", href: "https://kays.com.tr" },
-         { src: "/unall.png", alt: "logo7", href: "https://www.unalcelikyapi.com.tr" },
+         { src: "https://github.com/theuntil/ter/blob/main/public/unall.png?raw=true", alt: "logo7", href: "https://www.unalcelikyapi.com.tr" },
     
   ];
 
